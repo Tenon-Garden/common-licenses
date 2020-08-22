@@ -12,3 +12,12 @@ In `bash` the `cp` command can be used to copy and rename any of these license f
 cp [src/source.txt] [dst]/LICENSE;
 ```
 
+## References
+
+- <https://en.wikipedia.org/wiki/Shared_Source_Initiative>
+- <https://en.wikipedia.org/wiki/Source-available_software>
+- <https://en.wikipedia.org/wiki/Open-source_software>
+- <https://en.wikipedia.org/wiki/Free_and_open-source_software>
+- <https://opensource.org/>
+- <https://referencesource.microsoft.com/license.html>
+
